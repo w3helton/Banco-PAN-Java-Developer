@@ -51,7 +51,7 @@ O primeiro valor de saída é a quantidade de valores positivos. A próxima linh
 4.6
 12
 
-[3. Desafio: Soma de H com N Termos](#3-#Desafio-Soma-de-H-com-N-Termos)
+[3. Desafio: Soma de H com N Termos](https://github.com/w3helton/Banco-PAN-Java-Developer/blob/main/Desafio:%20Soma%20de%20H%20com%20N%20Termos/Desafio:%20Soma%20de%20H%20com%20N%20Termos)
 
 ### Desafio
 Neste desafio, faça um programa que calcule o valor de H com N termos. 
