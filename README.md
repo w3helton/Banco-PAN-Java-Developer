@@ -29,6 +29,7 @@ Exemplo 2
 |10     |         |
 |10	  |         |
 
+
 [2. Desafio: Imprimindo Positivos e Média](https://github.com/w3helton/Banco-PAN-Java-Developer/blob/1b681958ba110dd0ac3bf13ce6fe5fb33661eaab/Desafio:%20Imprimindo%20Positivos%20e%20M%C3%A9dia/Desafio:%20Imprimindo%20Positivos%20e%20M%C3%A9dia)
     
 ### Desafio
@@ -50,8 +51,6 @@ O primeiro valor de saída é a quantidade de valores positivos. A próxima linh
 4.6
 12
 
-
-
 [3. Desafio: Soma de H com N Termos](#3-#Desafio-Soma-de-H-com-N-Termos)
 
 ### Desafio
@@ -70,6 +69,7 @@ Na saída será impresso o valor que representa a soma dos termos.
 |   4   |    2    |
 |   8   |    3    |
 |   3	  |    2    |
+
 [4. Desafio: Dragão!](#4-#Desafio-Dragão!)
 
 [5. Desafio: Fibonacci Fácil](#5-#Desafio-Fibonacci-Fácil)
