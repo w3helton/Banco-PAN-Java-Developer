@@ -26,6 +26,8 @@ O primeiro valor de saída é a quantidade de valores positivos. A próxima linh
 
 
 
-    -  [3. Desafio: Soma de H com N Termos](#3-#Desafio-Soma-de-H-com-N-Termos)
-    -  [4. Desafio: Dragão!](#4-#Desafio-Dragão!)
-    -  [5. Desafio: Fibonacci Fácil](#5-#Desafio-Fibonacci-Fácil)
+[3. Desafio: Soma de H com N Termos](#3-#Desafio-Soma-de-H-com-N-Termos)
+
+[4. Desafio: Dragão!](#4-#Desafio-Dragão!)
+
+[5. Desafio: Fibonacci Fácil](#5-#Desafio-Fibonacci-Fácil)
