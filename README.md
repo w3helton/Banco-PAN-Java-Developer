@@ -54,6 +54,22 @@ O primeiro valor de saída é a quantidade de valores positivos. A próxima linh
 
 [3. Desafio: Soma de H com N Termos](#3-#Desafio-Soma-de-H-com-N-Termos)
 
+### Desafio
+Neste desafio, faça um programa que calcule o valor de H com N termos. 
+
+Sendo, H = 1 + 1/2 + 1/3 + 1/4 + ... + 1/N. 
+
+### Entrada 
+A entrada consiste em um número inteiro positivo. 
+
+### Saída 
+Na saída será impresso o valor que representa a soma dos termos.
+
+|Entrada|	Saída |
+|-------|---------|
+|   4   |    2    |
+|   8   |    3    |
+|   3	  |    2    |
 [4. Desafio: Dragão!](#4-#Desafio-Dragão!)
 
 [5. Desafio: Fibonacci Fácil](#5-#Desafio-Fibonacci-Fácil)
