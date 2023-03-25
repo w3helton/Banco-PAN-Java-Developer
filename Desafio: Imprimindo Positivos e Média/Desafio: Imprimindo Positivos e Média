@@ -30,3 +30,4 @@ public class num_positivos {
 	        System.out.println(String.format("%.1f", media));
 	     
 	}
+}
