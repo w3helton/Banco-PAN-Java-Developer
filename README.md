@@ -83,7 +83,7 @@ Para cada valor lido, imprima o texto correspondente.
 
  
 |Exemplo de Entrada|Exemplo de Saída |
-|------------------|-----------------|
+|---|---|
 |   3   | Mais de 8000!|
 | 8001  |   Inseto!    |
 |  100  |   Inseto!    |
